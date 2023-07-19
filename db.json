@@ -1,0 +1,12 @@
+{
+  "postagens": [
+    {
+      "id": 1,
+      "postagem": " json-server "
+    },
+    {
+      "id": 2,
+      "postagem": " teste "
+    }
+  ]
+}
